@@ -17,6 +17,22 @@ body {
     margin: 0;
 }
 
+/* Attendance info styling */
+.attendance-info {
+    margin-bottom: 20px; /* Space between the attendance info and the container */
+    text-align: center;
+}
+
+#attendance-percentage {
+    font-size: 18px;
+    color: #343a40;
+    font-weight: 500;
+}
+
+#attendance-percentage strong {
+    font-weight: 700;
+}
+
 /* Container styling */
 .container {
     background-color: #ffffff;
